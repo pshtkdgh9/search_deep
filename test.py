@@ -1,2 +1,1 @@
-print("Hello World!")
-print("second Hello")
+print("sangho")
